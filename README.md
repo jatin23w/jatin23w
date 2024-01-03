@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://camo.githubusercontent.com/f84afbcdd187c35235661e6469f405ffb00597ef76ebd50e70783057bc44b73a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3236784277644975524a694149714877412f67697068792e676966" alt="Hola" width="200"/>
-  <h1>Hey there! 🌟 I'm Jatin Chaudharry </h1>
+  <h1>Hey there! 🌟 I'm Jatin Chaudhary </h1>
 </div>
 I'm Jatin Chaudhary, a Chemical Engineering graduate from IIT Ropar (Class of 2022) with a passion for coding and technology. I excel in Node.js, Java, AWS, and JavaScript, leveraging these skills to solve real-world problems.
 
